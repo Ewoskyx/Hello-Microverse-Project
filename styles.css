@@ -2,12 +2,12 @@
   margin: 0;
   padding: 0;
 }
-body {
+ body {
   background: #333;
   display: flex;
   justify-content: center;
 }
-h1 {
+ h1 {
   color: coral;
   transform: translateY(50%);
 }
