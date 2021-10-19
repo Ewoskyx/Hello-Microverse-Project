@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #333333;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color:coral;
+    transform: translateY(50%);
+}
