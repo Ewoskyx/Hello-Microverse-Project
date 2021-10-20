@@ -1,76 +1,59 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
-> One paragraph statement about the project.
+> This is a study project for Microverse Modlue 1 week 1.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project is build to practise Github, Gitflow and documentation.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5 & CSS3
+
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+N/A
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Simply clone the project (for more help please follow the link https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- Run the cmd promt
+- Type "npm install" for the dependencies
 
 ## Authors
 
-👤 **Author1**
+👤 **Evren Ersoy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [https://github.com/Ewoskyx]
+- Twitter: [https://twitter.com/Ewoskyx]
+- LinkedIn: [https://www.linkedin.com/in/evren-ersoy-206510179/]
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
+
+
+
+
+
+
+
+
+
